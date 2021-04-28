@@ -35,3 +35,11 @@ Terminou a tabela
 
 Funcão do comando ` document.getElementById() `
 
+
+``` if(n%2==0){
+      printf("O número é par");
+    else{
+      printf("O número é impar");
+    }
+```
+
